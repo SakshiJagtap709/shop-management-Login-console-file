@@ -6,5 +6,6 @@ public class UserOptions {
 	public static final int Search_User=3;
 	public static final int Delete_User=4;
 	public static final int Quit=5;
+        public static final int List=6;
 
 }
