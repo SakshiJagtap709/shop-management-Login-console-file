@@ -7,4 +7,5 @@ public class User {
 	String password;
 	String conformPassword;
 	String userRole;
+        String mobileNumber;
 }
